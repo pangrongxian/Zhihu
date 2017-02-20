@@ -7,10 +7,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 import rx.Observable;
 
-/**
- * Created by yiyi on 2016/12/27.
- */
-
 public interface CommentsApi {
     /**
      * 获取文章长评论
